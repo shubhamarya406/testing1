@@ -2,8 +2,8 @@
 #include<conio.h>
 int main()
 {
-    int a,b;
-    cin>>a>>b;
+    int a,b=6;
+    cin>>a;
     cout<<a+b;
     return 0;
 }
